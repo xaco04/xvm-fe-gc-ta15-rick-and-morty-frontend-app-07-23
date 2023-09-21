@@ -16,10 +16,10 @@ Se recomienda integrar Bootstrap en la interfaz visual.
 Debes adjuntar las URL de los diferentes repositorios realizados para resolver la tarea (añade node_modules al gitignore). Recuerda que tienes fecha límite de entrega.
 
 Vistas necesarias: 
-login
-register
-home
-characters
-detalle
-about 
+- login
+- register
+- home
+- characters
+- detalle
+- about 
 
